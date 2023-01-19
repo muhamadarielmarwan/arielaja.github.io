@@ -1,0 +1,121 @@
+---
+title: "Melihat hubungan ekspor dan nilai tukar"
+subtitle: "Analisis pengaruh ekspor komoditi rumput laut dan ganggang Indonesia ke negara korea selatan terhadap nilai tukar rupiah pada tahun 2012-2021"
+author: "Muhamad Ariel Marwan"
+date: 2022-01-18
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: visual
+---
+
+![](poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Indonesia adalah negara kepulauan terbesar di dunia dengan lebih dari 81.000 km garis pantai dan lebih dari 17.508 pulau. Luas laut Indonesia mencapai 5,8 juta km2, yang terdiri dari sekitar 3,1 juta km2 luas laut dan 2,7 juta km2 zona ekonomi eksklusif. Sebagai negara kepulauan, Indonesia memiliki potensi pembangunan yang besar di bidang kelautan dengan sumber daya laut terbesar dan keanekaragaman hayati terbesar di dunia. Rumput laut Yuchuma cottonyi merupakan bahan baku budidaya yang representatif, dan rumput laut ini memiliki nilai ekspor yang tinggi ke luar negeri. Salah satu pengekspor rumput laut terbesar Indonesia adalah Korea Selatan. Indonesia merupakan salah satu pengekspor rumput laut terkemuka ke pasar dunia. Nori untuk penggunaan komersial terdiri dari produk mentah dan olahan. Produk olahan rumput laut adalah HS Code 130231 Agar dan HS Code 130239 Carrageenan. Permintaan global bruto agar pada tahun 2018 diperkirakan sebesar USD 275.188 juta, naik 4,9% year-on-year, sementara permintaan bruto global untuk karagenan sebesar USD 1.131.820.000 pada tahun 2018 naik 8,4% year-on-year (ITC 2019) Tingginya permintaan dan nilai produk rumput laut merupakan peluang bagi Indonesia. Hasil analisis menunjukkan rumput laut Indonesia memiliki daya saing yang setara di pasar global. Meskipun posisi persaingannya di negara tujuan utama berstatus rising star memiliki daya saing yang kuat, namun permintaan rumput laut olahan yang terus meningkat di dunia membuka peluang bagi Indonesia untuk mengoptimalkan keuntungannya. Indonesia sebaiknya meningkatkan ekspor rumput laut olahan dalam bentuk karaginan dan agar dengan mendorong investasi dalam negeri untuk mengembangkan sektor industri pengolahan rumput laut.
+
+### Ruang lingkup
+
+Penelitian ini membahas mengenai pengaruh nilai tukar terhadap ekspor komoditi unggulan kelautan Indonesia, faktor -- faktor yang mempengaruhi hubungan nilai tukar terhadap ekspor komoditi unggulan kelautan Indonesia serta untuk mengetahui asumsi dan metode yang digunakan dapat menjelaskan pengaruh nilai tukar terhadap ekspor komoditi unggulan kelautan Indonesia. Pada penelitian ini komoditi unggulan kelautan yang digunakan adalah rumput laut dan ganggang.Pada penelitian rumput laut ini variabel yang digunakan adalah total nilai ekspor ke Korea Selatan.
+
+### Rumusan masalah
+
+Berdasarkan uraian latar belakang masalah diatas, maka terdapat beberapa indikator yang menjadi rumusan masalah dalam penelitian ini, adapun rumusan masalah tersebut adalah sebagai berikut:
+
+1\. Apakah nilai tukar rupiah berpengaruh terhadap nilai ekspor rumput laut dan ganggang Indonesia ke negara Korea Selatan tahun 2012 s.d 2021?
+
+### Tujuan dan manfaat penelitian
+
+Tujuan dan manfaat penelitian Adapun yang menjadi tujuan dari penelitian ini adalah : Untuk mengetahui dan menganalisis seberapa besar pengaruh ekspor komoditi rumput laut dan ganggang indonesia ke negara Korea Selatan terhadap nilai tukar rupiah pada tahun 2012-2021 Adapun manfaat yang diperoleh dari penelitian ini adalah:
+
+1\. Bagi peneliti Bertambahnya ilmu pengetahuan dan wawasan terkait tema yang diteliti oleh peneliti.
+
+2\. Bagi Masyarakat Memberikan informasi kepada masyarakat mengenai pengaruh ekspor komoditi rumput laut dan ganggang indonesia ke negara Korea Selatan terhadap nilai tukar rupiah pada tahun 2012-2021
+
+## Studi pustaka
+
+Menurut Apridar, perdagangan internasional adalah perdagangan yang dilakukan oleh penduduk suatu negara dengan penduduk lainnya berdasarkan kesepakatan bersama. Penduduk yang dimaksud bisa antar individu, antara individu dengan pemerintah suatu negara, atau antara pemerintah satu negara dengan pemerintah negara lain. Kegiatan perdagangan internasional pada dasarnya didorong oleh dorongan yang sama dengan kegiatan perdagangan pada umumnya, yaitu keinginan untuk memperoleh keuntungan/keuntungan dari kegiatan tersebut. Dalam teori keseimbangan ekonomi, situasi ini melibatkan dua kegiatan: impor dan ekspor barang dan jasa.
+
+## Metode penelitian
+
+### Data
+
+| Tahun | Korea Selatan | Indonesia      |
+|-------|---------------|----------------|
+| 2012  | 387946421100  | 4759162411500  |
+| 2013  | 380772553200  | 4671156438000  |
+| 2014  | 1030212034800 | 12638204982000 |
+| 2015  | 995866677600  | 12216870684000 |
+| 2016  | 336837258600  | 4132176849000  |
+| 2017  | 694522449700  | 8509657310000  |
+| 2018  | 1597269165100 | 19570588730000 |
+| 2019  | 1066525704100 | 13067638430000 |
+| 2020  | 1190786775200 | 14590150960000 |
+| 2021  | 668919989300  | 8195962390000  |
+
+Data yang akan diolah dan dianalisis dalam penelitian ini adalah data ekspor rumput laut dan ganggang merupakan data sekunder, yaitu data yang telah diolah pihak lain sebelumnya dari instansi yang berwenang dan terkait dengan sektor moneter yaitu Badan Pusat Statistik serta jurnal-jurnal ilmiah, website di internet, artikel dan literatur-literatur yang relevan dalam penelitian ini.
+
+### Metode analisis
+
+Teknik analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif dan penjabaran deskriptif. Teknik analisis kuantitatif merupakan analisis yang dilakukan dengan perhitungan angka-angka yang faktor yang mempengaruhi indeks nilai tukar rupiah terhadap Won Korea Selatan yaitu nilai ekspor rumput laut dan ganggang ke Korea Selatan. Pendekatan yang digunakan adalah kuantitatif dengan mengaplikasikan model regresi linier berganda. Secara spesifik model tersebut dapat disajikan sebagai berikut:
+
+Yi=β0+β1Xi+μi
+
+Dimana: Yi adalah nilai tukar USD terhadap mata uang negara lain., β0 adalah koefisien konstanta; β1 adalah parameter; Xi adalah nilai ekspor dan μi adalah error term.)
+
+## Pembahasan
+
+### Pembahasan masalah
+
+| x(Korsel)     | y(Indonesia)   |
+|---------------|----------------|
+| 387946421100  | 4759162411500  |
+| 380772553200  | 4671156438000  |
+| 1030212034800 | 12638204982000 |
+| 995866677600  | 12216870684000 |
+| 336837258600  | 4132176849000  |
+| 694522449700  | 8509657310000  |
+| 1597269165100 | 19570588730000 |
+| 1066525704100 | 13067638430000 |
+| 1190786775200 | 14590150960000 |
+| 668919989300  | 8195962390000  |
+
+### Analisis masalah
+
+Hasil regresinya adalah
+
+
+
+```{r}
+library(readxl)
+dat<-read_excel('latihan1.xlsx')
+reg1<-lm(Y~X,data=dat)
+summary(reg1)
+```
+
+
+berdasarkan output di atas, model regresinya bisa dilihat dari bagian estimate, yaitu y = 5.969e+09 + 1.225e+01. dari uji parsial dengan t-value sebesar 2350.277 dan p-value\< 2.2e-16 dimana tingkat signifikansi yang digunakan adalah 0.05, memberikan hasil tolak H0: β1=0 artinya variabel X (Nilai tukar uang Korea selatan) secara signifikan berpengaruh terhadap model.
+
+Nilai koefisien regresi dari X sebesar 1.225e+01 dapat kita interpretasikan bahwa setiap kenaikan nilai tukar uang X (nilai tukar uang Korea Selatan), maka nilai Y (nilai tukar uang indonesia) akan naik sebesar 1.225e+01
+
+
+## Kesimpulan
+
+Menyadari besarnya potensi yang dimiliki, maka Pemerintah Indonesia mengambil langkah untuk menerapkan kebijakan peningkatan daya saing produk rumput laut Indonesia di pasar global dan kesimpulan dari penelitian mengenai volume ekspor rumput laut dan ganggang Indonesia ke negara Korea Selatan adalah Variabel Kurs Rupiah mempunyai hubungan positif dan berpengaruh tidak signifikan terhadap volume ekspor rumput laut dan ganggang Indonesia pasar internasional.
+
+### Saran
+1. Di harapkan adanya strategi pengembangan rumput laut dan ganggang lokal di Indonesia yang dapat dilakukan meliputi peningkatan produksi rumput laut dan ganggang lokal, baik terhadap kualitas maupun terhadap kuantitas agar komoditi rumput laut dan ganggang Indonesia bisa lebih unggul di pasar Internasional.
+
+2. Di harapkan pemerintah agar sebaiknya gencar lagi melakukan kegiatan ekspor, agarproduk domestik bruto Indonesia terus meningkat. Upaya yang dapat dilakukandalam peningkatan ekspor adalah dengan meningkatkan investasi dalam negri,dimana jika investasi meningkat akan berdampak baik bagi perekonomian Indonesia.
+
+## Referensi
+
+Hikmayani, Y., & Aprilliani, T. (2007). ANALISIS PEMASARAN RUMPUT LAUT DI WILAYAH POTENSIAL DI INDONESIA. vol 2, 159--175.
+
+Adiguna, A. D., Krisnamurthi, B., & Erwidodo. (2022). ANALISIS DAYA SAING EKSPOR RUMPUT LAUT OLAHAN INDONESIA. Jurnal Agribisnis Indonesia (Journal of Indonesian Agribusiness), vol 10 no 1, 31--39.
+
+Priono, B. (2013). BUDIDAYA RUMPUT LAUT DALAM UPAYA PENINGKATAN INDUSTRIALISASI PERIKANAN. Media Akuakultur, vol 8 no 1, 8.
